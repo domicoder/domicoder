@@ -3,7 +3,7 @@
 # Hi there <img align="center" src="https://raw.githubusercontent.com/domicoder/domicoder/main/assets/hello.gif" width="35">, I'm Yander
 
 [![Github](https://img.shields.io/github/followers/domicoder?label=Follow&style=social)](https://github.com/domicoder)
-[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
+[![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=yandertz)
 [![Linkedin: sanchezyander](https://img.shields.io/badge/-domicoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchezyander/)](https://www.linkedin.com/in/sanchezyander/)
 
 Fullstack Software Engineer. 5+ years of coding. Web Performance Lover. Bug hunter. Bug fixer. Coding to create solutions.💚
