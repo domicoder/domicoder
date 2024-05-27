@@ -1,6 +1,6 @@
 <!-- https://github.com/domicoder/domicoder/blob/master/assets/hello.gif -->
 
-# Hi there <img align="center" src="https://github.com/domicoder/domicoder/blob/master/assets/hello.gif" width="35">, I'm Yander
+# Hi there <img align="center" src="https://raw.githubusercontent.com/domicoder/domicoder/main/assets/hello.gif" width="35">, I'm Yander
 
 [![Github](https://img.shields.io/github/followers/domicoder?label=Follow&style=social)](https://github.com/domicoder)
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
