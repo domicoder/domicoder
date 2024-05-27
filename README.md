@@ -14,7 +14,16 @@ Fullstack Software Engineer. 5+ years of coding. Web Performance Lover. Bug hunt
 
 -   📫 How to reach me **sanchezyander@gmail.com**
 
-##
+#
+
+<p align="center">
+  <samp>
+    <a href="https://sanchezyander.com">me (wip)</a> .
+    <a href="https://sanchezyander.com/projects">projects</a>
+  </samp>
+</p>
+
+#
 
 <!-- stack -->
 <p align="left"><img align="center" style="margin-left:-8px;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3I1Mmd5ZTRuZXduMmZ1NDV6d21ueHlqc3E2dHVsdnZnbHh1aWVvZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9JJq5lC0Xz3XcDik9O/giphy.gif" width="30">My stack</p>
