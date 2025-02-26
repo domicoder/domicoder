@@ -6,8 +6,6 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=yandertz)
 [![Linkedin: sanchezyander](https://img.shields.io/badge/-domicoder-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sanchezyander/)](https://www.linkedin.com/in/sanchezyander/)
 
-Fullstack Software Engineer. 5+ years of coding. Web Performance Lover. Bug hunter. Bug fixer. Coding to create solutions.💚
-
 -   🔭 I’m currently building things helpful for people.
 
 -   🏀 Hobbies: I love playing video games, read books and blogging.
